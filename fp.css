@@ -17,6 +17,13 @@ body{
     color: orangered;
 }
 
+@media (max-width: 600px) {
+    .heading {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
 .first-paragraph{
     font-size: 1.125rem;
     margin-bottom: 40px;
